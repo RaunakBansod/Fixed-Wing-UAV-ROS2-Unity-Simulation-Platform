@@ -2,10 +2,6 @@
 
 ![fixed-wing-uav](https://github.com/user-attachments/assets/7080bc56-47d4-468c-bce7-c97f91d537e3)
 
-## Demo 
-
-https://youtu.be/OdzIkL9VDmY?si=tY7iI35HB6NyqarO
-
 ## 
 This project is a simulation that uses Unity [aircraft model physics](https://github.com/gasgiant/Aircraft-Physics) and can be controlled via a ROS2 interface. A bridge has been configured between Unity and ROS2, allowing for the following control commands to be sent to the aircraft:
 
